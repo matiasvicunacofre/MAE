@@ -1,0 +1,6 @@
+-------------------------------------------- 
+     Tabla 1: Resultados de la Muestra 
+-------------------------------------------- 
+Esperanza promedio de las muestras: 0.010000
+Varianza promedio de las muestras: 2.450000
+-------------------------------------------- 
